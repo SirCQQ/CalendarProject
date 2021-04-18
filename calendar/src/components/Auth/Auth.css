@@ -1,0 +1,26 @@
+.auth{
+  width:50%;
+  max-width: 800px;
+  min-width: 200px;
+  margin:0px;
+}
+
+.auth-btn,.full-width{
+  width: 100%;
+}
+
+.auth-btn{
+  margin: 10px 0px;
+}
+
+.full-view{
+  /* width:100vw; */
+  height: 100vh;
+  /* margin:0px 0px 0px 0px; */
+}
+
+.change-auth{
+  color:#007bff;
+  cursor: pointer;
+
+}
